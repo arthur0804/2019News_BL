@@ -1,0 +1,2293 @@
+Topic No: 321 	 Type: WorldViews 
+13 16-Rel docs
+	Monkey Cage
+	Monkey Cage
+	WorldViews
+	On Leadership
+	On Leadership
+	Monkey Cage
+	World
+	Monkey Cage
+	Monkey Cage
+	Monkey Cage
+	Monkey Cage
+	Monkey Cage
+	Wonkblog
+33 8-Rel docs
+	PowerPost
+	TypeNotKnown
+	Monkey Cage
+	She The People
+	She The People
+	She The People
+	Monkey Cage
+	TypeNotKnown
+	On Leadership
+	She The People
+	Middle East
+	WorldViews
+	She The People
+	Monkey Cage
+	WorldViews
+	She The People
+	Monkey Cage
+	Monkey Cage
+	Monkey Cage
+	Monkey Cage
+	Maryland Politics
+	On Leadership
+	The Fix
+	WorldViews
+	Monkey Cage
+	WorldViews
+	Politics
+	WorldViews
+	WorldViews
+	GovBeat
+	Monkey Cage
+	Monkey Cage
+	Monkey Cage
+47 4-Rel docs
+	She The People
+	Post Politics
+	PowerPost
+	She The People
+	The Fix
+	Post Politics
+	PowerPost
+	The Fix
+	She The People
+	WorldViews
+	On Leadership
+	The Fix
+	On Leadership
+	The Fix
+	Post Politics
+	Monkey Cage
+	Monkey Cage
+	The Fix
+	The Fix
+	Opinions
+	Asia & Pacific
+	She The People
+	She The People
+	Opinions
+	The Fix
+	Fact Checker
+	The Fix
+	Monkey Cage
+	The Fix
+	Politics
+	She The People
+	The Fix
+	On Leadership
+	Politics
+	Monkey Cage
+	Politics
+	WorldViews
+	She The People
+	Monkey Cage
+	Wonkblog
+	Monkey Cage
+	Monkey Cage
+	The Fix
+	Opinions
+	The Fix
+	Monkey Cage
+	Post Politics
+28 2-Rel docs
+	Politics
+	Monkey Cage
+	On Leadership
+	Europe
+	On Leadership
+	On Leadership
+	Monkey Cage
+	PowerPost
+	Monkey Cage
+	Asia & Pacific
+	She The People
+	She The People
+	Maryland Politics
+	Monkey Cage
+	Monkey Cage
+	WorldViews
+	WorldViews
+	The Fix
+	Tablet
+	She The People
+	Monkey Cage
+	The Fix
+	Post Nation
+	WorldViews
+	WorldViews
+	Wonkblog
+	WorldViews
+	She The People
+Topic No: 336 	 Type: Animalia 
+0 16-Rel docs
+0 8-Rel docs
+24 4-Rel docs
+	Morning Mix
+	National
+	Post Nation
+	Morning Mix
+	Morning Mix
+	Public Safety
+	Morning Mix
+	Early Lead
+	Morning Mix
+	Animalia
+	Morning Mix
+	Animalia
+	Morning Mix
+	Morning Mix
+	Morning Mix
+	Morning Mix
+	Morning Mix
+	Morning Mix
+	Early Lead
+	Morning Mix
+	Animalia
+	Grade Point
+	Animalia
+	Morning Mix
+29 2-Rel docs
+	Local
+	Local
+	Speaking of Science
+	The Switch
+	Morning Mix
+	Early Lead
+	Local
+	Animalia
+	Animalia
+	Animalia
+	Politics
+	Animalia
+	Animalia
+	Speaking of Science
+	Animalia
+	Morning Mix
+	Animalia
+	Capital Weather Gang
+	Animalia
+	Animalia
+	Animalia
+	Animalia
+	Local
+	Morning Mix
+	Travel
+	Speaking of Science
+	Post Nation
+	Morning Mix
+	None
+Topic No: 341 	 Type: Gridlock 
+1 16-Rel docs
+	Gridlock
+6 8-Rel docs
+	PowerPost
+	Gridlock
+	Checkpoint
+	Gridlock
+	Europe
+	Morning Mix
+12 4-Rel docs
+	Transportation
+	Politics
+	The Fix
+	Transportation
+	National Security
+	Politics
+	World
+	Gridlock
+	Tripping
+	Checkpoint
+	WorldViews
+	Gridlock
+12 2-Rel docs
+	TypeNotKnown
+	Transportation
+	Federal Insider
+	Federal Insider
+	Politics
+	TypeNotKnown
+	In the Loop
+	Opinions
+	Checkpoint
+	Early Lead
+	Post Nation
+	Transportation
+Topic No: 347 	 Type: Animalia 
+1 16-Rel docs
+	KidsPost
+3 8-Rel docs
+	Health & Science
+	Asia & Pacific
+	Animalia
+7 4-Rel docs
+	Achenblog
+	WorldViews
+	Energy and Environment
+	Speaking of Science
+	KidsPost
+	WorldViews
+	Asia & Pacific
+7 2-Rel docs
+	Health & Science
+	Travel
+	Energy and Environment
+	Speaking of Science
+	Morning Mix
+	National
+	Arts and Entertainment
+Topic No: 350 	 Type: Health & Science 
+0 16-Rel docs
+0 8-Rel docs
+0 4-Rel docs
+3 2-Rel docs
+	Health & Science
+	Wellness
+	Books
+Topic No: 362 	 Type: Post Nation 
+1 16-Rel docs
+	Post Nation
+2 8-Rel docs
+	PostEverything
+	Immigration
+13 4-Rel docs
+	Post Politics
+	Post Politics
+	Morning Mix
+	Morning Mix
+	National
+	Post Politics
+	Post Politics
+	World
+	Immigration
+	The Americas
+	National
+	The Americas
+	Immigration
+24 2-Rel docs
+	WorldViews
+	Europe
+	Monkey Cage
+	Wonkblog
+	Morning Mix
+	None
+	World
+	Monkey Cage
+	The Americas
+	Europe
+	Politics
+	Post Nation
+	Politics
+	The Americas
+	Public Safety
+	GovBeat
+	World
+	The Americas
+	National
+	National
+	Local
+	The Americas
+	World
+	The Americas
+Topic No: 363 	 Type: Transportation 
+8 16-Rel docs
+	Local
+	D.C. Politics
+	D.C. Politics
+	Transportation
+	Transportation
+	Transportation
+	Transportation
+	D.C. Politics
+4 8-Rel docs
+	D.C. Politics
+	Transportation
+	Transportation
+	Transportation
+21 4-Rel docs
+	Local
+	Local
+	Transportation
+	Transportation
+	Dr. Gridlock
+	Transportation
+	Gridlock
+	Dr. Gridlock
+	Dr. Gridlock
+	Gridlock
+	Transportation
+	Transportation
+	Gridlock
+	Gridlock
+	Transportation
+	Gridlock
+	Transportation
+	Dr. Gridlock
+	Transportation
+	Local
+	Transportation
+8 2-Rel docs
+	Gridlock
+	Transportation
+	Transportation
+	Transportation
+	PostEverything
+	Local
+	Gridlock
+	Gridlock
+Topic No: 367 	 Type: WorldViews 
+0 16-Rel docs
+0 8-Rel docs
+0 4-Rel docs
+0 2-Rel docs
+Topic No: 375 	 Type: Business 
+6 16-Rel docs
+	Wonkblog
+	Capital Business
+	The Switch
+	Innovations
+	The Switch
+	Capital Business
+8 8-Rel docs
+	Health & Science
+	On Small Business
+	On Small Business
+	The Switch
+	Innovations
+	The Switch
+	The Switch
+	Health & Science
+9 4-Rel docs
+	Energy and Environment
+	Business
+	Capital Business
+	Capital Business
+	Capital Business
+	Business
+	Innovations
+	KidsPost
+	Opinions
+16 2-Rel docs
+	The Switch
+	Capital Business
+	Business
+	GovBeat
+	Speaking of Science
+	Business
+	Innovations
+	Wonkblog
+	Innovations
+	Opinions
+	The Switch
+	Wonkblog
+	Cars
+	Cars
+	Cars
+	Capital Business
+Topic No: 378 	 Type: Europe 
+3 16-Rel docs
+	Europe
+	WorldViews
+	Wonkblog
+11 8-Rel docs
+	Wonkblog
+	Europe
+	Europe
+	Business
+	Europe
+	Wonkblog
+	Wonkblog
+	WorldViews
+	Europe
+	Europe
+	Wonkblog
+25 4-Rel docs
+	Wonkblog
+	Europe
+	Monkey Cage
+	Monkey Cage
+	Business
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Business
+	Business
+	Business
+	Wonkblog
+	Europe
+	Wonkblog
+	Business
+	Europe
+	Wonkblog
+	Wonkblog
+	Europe
+	Europe
+	World
+	Europe
+	Europe
+	Europe
+	Wonkblog
+41 2-Rel docs
+	Business
+	TypeNotKnown
+	TypeNotKnown
+	Europe
+	Business
+	Opinions
+	Wonkblog
+	Europe
+	Middle East
+	Business
+	Monkey Cage
+	Opinions
+	Wonkblog
+	Europe
+	Opinions
+	Opinions
+	PostEverything
+	Business
+	PostEverything
+	Wonkblog
+	Monkey Cage
+	PostEverything
+	Wonkblog
+	Monkey Cage
+	Europe
+	Wonkblog
+	Opinions
+	Wonkblog
+	Business
+	Monkey Cage
+	Wonkblog
+	Business
+	Europe
+	Europe
+	Europe
+	Europe
+	Morning Mix
+	Business
+	Europe
+	Europe
+	Europe
+Topic No: 393 	 Type: Morning Mix 
+7 16-Rel docs
+	National
+	Opinions
+	Opinions
+	She The People
+	D.C. Politics
+	Wonkblog
+	PostEverything
+9 8-Rel docs
+	National
+	Morning Mix
+	D.C. Politics
+	The Fix
+	TypeNotKnown
+	Acts of Faith
+	Post Nation
+	Wonkblog
+	Health & Science
+23 4-Rel docs
+	Inspired Life
+	Inspired Life
+	TypeNotKnown
+	D.C. Politics
+	Local
+	She The People
+	Maryland Politics
+	TypeNotKnown
+	TypeNotKnown
+	PostEverything
+	Health & Science
+	Magazine
+	TypeNotKnown
+	PostPartisan
+	Opinions
+	Morning Mix
+	National
+	She The People
+	On Leadership
+	Morning Mix
+	Opinions
+	Morning Mix
+	Morning Mix
+21 2-Rel docs
+	TypeNotKnown
+	TypeNotKnown
+	Health & Science
+	Politics
+	Movies
+	Storyline
+	Morning Mix
+	Opinions
+	WorldViews
+	TypeNotKnown
+	Inspired Life
+	World
+	The Volokh Conspiracy
+	Politics
+	Health & Science
+	Opinions
+	World
+	TypeNotKnown
+	Morning Mix
+	She The People
+	Morning Mix
+Topic No: 397 	 Type: Transportation 
+15 16-Rel docs
+	Business
+	Business
+	Transportation
+	Gridlock
+	The Switch
+	Gridlock
+	Politics
+	Business
+	Gridlock
+	Business
+	Morning Mix
+	Wonkblog
+	Transportation
+	Business
+	Gridlock
+11 8-Rel docs
+	Gridlock
+	Business
+	Business
+	Transportation
+	Transportation
+	Business
+	Innovations
+	Business
+	Transportation
+	Transportation
+	Business
+9 4-Rel docs
+	Politics
+	Transportation
+	Business
+	Wonkblog
+	TypeNotKnown
+	Transportation
+	Business
+	Transportation
+	Business
+21 2-Rel docs
+	Business
+	Politics
+	Business
+	WashPost PR Blog
+	Business
+	Business
+	Wonkblog
+	WashPost PR Blog
+	Business
+	Business
+	Business
+	Business
+	Business
+	Business
+	Wonkblog
+	Transportation
+	Business
+	Business
+	Wonkblog
+	Business
+	Business
+Topic No: 400 	 Type: Energy and Environment 
+0 16-Rel docs
+4 8-Rel docs
+	Energy and Environment
+	Energy and Environment
+	World
+	Energy and Environment
+1 4-Rel docs
+	Energy and Environment
+23 2-Rel docs
+	Energy and Environment
+	The Americas
+	Energy and Environment
+	Energy and Environment
+	PostEverything
+	World
+	Energy and Environment
+	Energy and Environment
+	Energy and Environment
+	TypeNotKnown
+	Wonkblog
+	Energy and Environment
+	Energy and Environment
+	Energy and Environment
+	Energy and Environment
+	Energy and Environment
+	Energy and Environment
+	Opinions
+	Brand Studio
+	Energy and Environment
+	Energy and Environment
+	Energy and Environment
+	Opinions
+Topic No: 408 	 Type: Capital Weather Gang 
+4 16-Rel docs
+	Wonkblog
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+12 8-Rel docs
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	Wonkblog
+	WorldViews
+	Asia & Pacific
+	Capital Weather Gang
+	Capital Weather Gang
+	World
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+12 4-Rel docs
+	Capital Weather Gang
+	Capital Weather Gang
+	Health & Science
+	Asia & Pacific
+	World
+	World
+	Capital Weather Gang
+	World
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	World
+27 2-Rel docs
+	Capital Weather Gang
+	World
+	Capital Weather Gang
+	World
+	Capital Weather Gang
+	World
+	World
+	Capital Weather Gang
+	World
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	WorldViews
+	Capital Weather Gang
+	Morning Mix
+	World
+	Capital Weather Gang
+	World
+	World
+	Capital Weather Gang
+	World
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+Topic No: 414 	 Type: Politics 
+2 16-Rel docs
+	Post Politics
+	Post Politics
+3 8-Rel docs
+	Politics
+	The Fix
+	Style
+2 4-Rel docs
+	WorldViews
+	Post Politics
+10 2-Rel docs
+	World
+	Politics
+	WorldViews
+	World
+	Politics
+	Politics
+	Virginia Politics
+	Politics
+	TypeNotKnown
+	Politics
+Topic No: 422 	 Type: Post Nation 
+0 16-Rel docs
+0 8-Rel docs
+3 4-Rel docs
+	Museums
+	Local
+	Local
+17 2-Rel docs
+	Movies
+	Local
+	Museums
+	Federal Insider
+	Morning Mix
+	Going Out Guide
+	Museums
+	Style
+	Politics
+	World
+	Going Out Guide
+	Local
+	Magazine
+	Europe
+	Post Nation
+	Museums
+	Local
+Topic No: 426 	 Type: Wonkblog 
+11 16-Rel docs
+	Local
+	Early Lead
+	Morning Mix
+	Local
+	Post Nation
+	Opinions
+	Morning Mix
+	Inspired Life
+	Sports
+	Checkpoint
+	Public Safety
+6 8-Rel docs
+	Public Safety
+	Morning Mix
+	Animalia
+	Public Safety
+	The Watch
+	KidsPost
+18 4-Rel docs
+	National
+	Post Nation
+	Travel
+	Inspired Life
+	Books
+	Asia & Pacific
+	Animalia
+	Morning Mix
+	Post Nation
+	Local
+	Education
+	Books
+	Books
+	Post Local
+	Education
+	National Security
+	Public Safety
+	The Watch
+32 2-Rel docs
+	Local
+	Local
+	Local
+	Politics
+	TypeNotKnown
+	Morning Mix
+	Local
+	Sports
+	Transportation
+	Post Nation
+	The Watch
+	Morning Mix
+	PostEverything
+	Politics
+	Local
+	Politics
+	Local
+	The Volokh Conspiracy
+	Opinions
+	Local
+	Health & Science
+	National Security
+	Transportation
+	Morning Mix
+	Public Safety
+	The Volokh Conspiracy
+	Gridlock
+	Politics
+	The Volokh Conspiracy
+	Politics
+	National
+	Europe
+Topic No: 427 	 Type: Capital Weather Gang 
+5 16-Rel docs
+	Capital Weather Gang
+	Get There
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+1 8-Rel docs
+	KidsPost
+0 4-Rel docs
+14 2-Rel docs
+	Capital Weather Gang
+	Local
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	KidsPost
+	On Parenting
+	Speaking of Science
+	Speaking of Science
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	Capital Weather Gang
+	Health & Science
+Topic No: 433 	 Type: Museums 
+2 16-Rel docs
+	Museums
+	Express
+0 8-Rel docs
+0 4-Rel docs
+2 2-Rel docs
+	Books
+	Museums
+Topic No: 439 	 Type: Speaking of Science 
+1 16-Rel docs
+	Style
+1 8-Rel docs
+	Health & Science
+8 4-Rel docs
+	The Fed Page
+	To Your Health
+	Business
+	Wonkblog
+	Health & Science
+	To Your Health
+	Morning Mix
+	Innovations
+30 2-Rel docs
+	Health & Science
+	Business
+	Health & Science
+	Health & Science
+	To Your Health
+	Post Live
+	Health & Science
+	In Theory
+	Innovations
+	In Theory
+	Wonkblog
+	To Your Health
+	Health & Science
+	Health & Science
+	Speaking of Science
+	Health & Science
+	Style
+	Energy and Environment
+	To Your Health
+	Opinions
+	Speaking of Science
+	Speaking of Science
+	Health & Science
+	Innovations
+	Speaking of Science
+	To Your Health
+	To Your Health
+	Opinions
+	To Your Health
+	To Your Health
+Topic No: 442 	 Type: WorldViews 
+0 16-Rel docs
+1 8-Rel docs
+	WorldViews
+2 4-Rel docs
+	WorldViews
+	Opinions
+8 2-Rel docs
+	Asia & Pacific
+	WorldViews
+	WorldViews
+	Style
+	WorldViews
+	Asia & Pacific
+	Asia & Pacific
+	National Security
+Topic No: 445 	 Type: Europe 
+0 16-Rel docs
+1 8-Rel docs
+	On Leadership
+1 4-Rel docs
+	National
+28 2-Rel docs
+	Europe
+	World
+	Obituaries
+	Local
+	Local
+	Opinions
+	National
+	Opinions
+	Local
+	Local
+	Local
+	National
+	Local
+	Opinions
+	National
+	TypeNotKnown
+	PostPartisan
+	Local
+	Local
+	PostEverything
+	National
+	Local
+	National
+	National
+	National
+	National
+	WorldViews
+	Education
+Topic No: 626 	 Type: Morning Mix 
+0 16-Rel docs
+0 8-Rel docs
+0 4-Rel docs
+1 2-Rel docs
+	World
+Topic No: 646 	 Type: GovBeat 
+0 16-Rel docs
+4 8-Rel docs
+	Wonkblog
+	The Fix
+	The Fix
+	GovBeat
+6 4-Rel docs
+	Wonkblog
+	The Fix
+	Wonkblog
+	GovBeat
+	Wonkblog
+	WashPost PR Blog
+32 2-Rel docs
+	Wonkblog
+	National
+	Politics
+	GovBeat
+	GovBeat
+	Wonkblog
+	TypeNotKnown
+	Politics
+	Wonkblog
+	PostEverything
+	GovBeat
+	Wonkblog
+	National
+	Politics
+	Opinions
+	Food
+	TypeNotKnown
+	Wonkblog
+	GovBeat
+	Rampage
+	Wonkblog
+	Fact Checker
+	Rampage
+	Wonkblog
+	Local
+	Politics
+	GovBeat
+	Wonkblog
+	Opinions
+	She The People
+	Politics
+	Wonkblog
+Topic No: 690 	 Type: She The People 
+0 16-Rel docs
+1 8-Rel docs
+	Answer Sheet
+17 4-Rel docs
+	None
+	Wonkblog
+	Opinions
+	Grade Point
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	She The People
+	Business
+	Business
+	Education
+	Business
+	Business
+	Storyline
+	None
+	Grade Point
+39 2-Rel docs
+	Opinions
+	Opinions
+	Innovations
+	Answer Sheet
+	Answer Sheet
+	Education
+	Wonkblog
+	TypeNotKnown
+	Answer Sheet
+	Grade Point
+	Wonkblog
+	Politics
+	Wonkblog
+	Get There
+	Answer Sheet
+	Wonkblog
+	Answer Sheet
+	Grade Point
+	Wonkblog
+	Wonkblog
+	Grade Point
+	Answer Sheet
+	Post Politics
+	She The People
+	Grade Point
+	Education
+	Grade Point
+	Answer Sheet
+	Business
+	Education
+	Get There
+	Business
+	Business
+	Grade Point
+	Federal Insider
+	Business
+	She The People
+	D.C. Politics
+	Grade Point
+Topic No: 801 	 Type: Health & Science 
+1 16-Rel docs
+	World
+0 8-Rel docs
+2 4-Rel docs
+	To Your Health
+	Wonkblog
+10 2-Rel docs
+	Asia & Pacific
+	Asia & Pacific
+	Wonkblog
+	Asia & Pacific
+	WorldViews
+	World
+	The Fed Page
+	TypeNotKnown
+	Asia & Pacific
+	WorldViews
+Topic No: 802 	 Type: WorldViews 
+3 16-Rel docs
+	WorldViews
+	WorldViews
+	WorldViews
+1 8-Rel docs
+	Gridlock
+11 4-Rel docs
+	WorldViews
+	WorldViews
+	WorldViews
+	WorldViews
+	WorldViews
+	WorldViews
+	World
+	TypeNotKnown
+	Middle East
+	National Security
+	WorldViews
+14 2-Rel docs
+	Opinions
+	WorldViews
+	WorldViews
+	WorldViews
+	Middle East
+	WorldViews
+	WorldViews
+	Middle East
+	WorldViews
+	WorldViews
+	WorldViews
+	WorldViews
+	WorldViews
+	Middle East
+Topic No: 803 	 Type: Wonkblog 
+0 16-Rel docs
+0 8-Rel docs
+20 4-Rel docs
+	The Fix
+	Business
+	Politics
+	Business
+	Politics
+	GovBeat
+	Business
+	Right Turn
+	Business
+	Politics
+	PostEverything
+	Fact Checker
+	Business
+	Business
+	Business
+	Business
+	Business
+	In Theory
+	Wonkblog
+	GovBeat
+49 2-Rel docs
+	Politics
+	Politics
+	The Fix
+	The Plum Line
+	Politics
+	Business
+	Answer Sheet
+	Politics
+	Business
+	Politics
+	Business
+	Business
+	Politics
+	The Fix
+	Politics
+	Politics
+	Right Turn
+	Business
+	Local
+	Politics
+	Morning Mix
+	The Plum Line
+	Monkey Cage
+	Right Turn
+	Business
+	Business
+	Politics
+	Cars
+	Fiscal Cliff
+	Fact Checker
+	Storyline
+	GovBeat
+	None
+	She The People
+	Right Turn
+	Politics
+	Right Turn
+	Storyline
+	In Theory
+	WorldViews
+	GovBeat
+	Wonkblog
+	PostEverything
+	Wonkblog
+	Wonkblog
+	Local
+	Local
+	Wonkblog
+	PostEverything
+Topic No: 804 	 Type: Maryland Politics 
+0 16-Rel docs
+0 8-Rel docs
+5 4-Rel docs
+	Local
+	Grade Point
+	Maryland Politics
+	Maryland Politics
+	Retropolis
+18 2-Rel docs
+	Wonkblog
+	KidsPost
+	Act Four
+	Wonkblog
+	The Fix
+	On Leadership
+	The Fix
+	Wonkblog
+	TypeNotKnown
+	The Plum Line
+	Local
+	Grade Point
+	Grade Point
+	Public Safety
+	Maryland Politics
+	Local
+	Local
+	Maryland Terrapins
+Topic No: 805 	 Type: Capital Weather Gang 
+0 16-Rel docs
+1 8-Rel docs
+	Capital Weather Gang
+11 4-Rel docs
+	Local
+	Health & Science
+	Local
+	Health & Science
+	KidsPost
+	Local
+	Express
+	Local
+	Capital Weather Gang
+	Energy and Environment
+	Local
+10 2-Rel docs
+	Food
+	Local
+	Energy and Environment
+	Going Out Guide
+	Going Out Guide
+	Going Out Guide
+	Transportation
+	Going Out Guide
+	Going Out Guide
+	Health & Science
+Topic No: 806 	 Type: Morning Mix 
+0 16-Rel docs
+0 8-Rel docs
+1 4-Rel docs
+	KidsPost
+5 2-Rel docs
+	Early Lead
+	Health & Science
+	Soccer Insider
+	Innovations
+	Innovations
+Topic No: 807 	 Type: The Americas 
+0 16-Rel docs
+0 8-Rel docs
+0 4-Rel docs
+3 2-Rel docs
+	WorldViews
+	WorldViews
+	The Americas
+Topic No: 808 	 Type: National Security 
+0 16-Rel docs
+1 8-Rel docs
+	Early Lead
+5 4-Rel docs
+	The Fix
+	Post Nation
+	Post Nation
+	National Security
+	Early Lead
+22 2-Rel docs
+	Post Politics
+	Early Lead
+	WashPost PR Blog
+	Post Nation
+	The Fix
+	National Security
+	Post Nation
+	Post Nation
+	Post Nation
+	National Security
+	Post Nation
+	Morning Mix
+	National
+	Post Politics
+	National Security
+	National Security
+	Post Nation
+	National Security
+	Post Nation
+	Post Nation
+	National Security
+	Post Nation
+Topic No: 809 	 Type: Speaking of Science 
+2 16-Rel docs
+	Speaking of Science
+	Speaking of Science
+0 8-Rel docs
+12 4-Rel docs
+	Speaking of Science
+	Speaking of Science
+	Business
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+	Speaking of Science
+5 2-Rel docs
+	Health & Science
+	Speaking of Science
+	KidsPost
+	Speaking of Science
+	Speaking of Science
+Topic No: 810 	 Type: Wonkblog 
+2 16-Rel docs
+	Health & Science
+	Food
+4 8-Rel docs
+	To Your Health
+	To Your Health
+	To Your Health
+	Speaking of Science
+3 4-Rel docs
+	To Your Health
+	Energy and Environment
+	Health & Science
+4 2-Rel docs
+	Health & Science
+	To Your Health
+	Health & Science
+	Health & Science
+Topic No: 811 	 Type: Morning Mix 
+1 16-Rel docs
+	The Switch
+3 8-Rel docs
+	Wonkblog
+	The Switch
+	Transportation
+5 4-Rel docs
+	Gridlock
+	The Switch
+	Transportation
+	The Switch
+	Technology
+11 2-Rel docs
+	Business
+	Business
+	Technology
+	The Switch
+	The Switch
+	The Switch
+	The Switch
+	Business
+	Monkey Cage
+	Investigations
+	Investigations
+Topic No: 812 	 Type: Morning Mix 
+0 16-Rel docs
+2 8-Rel docs
+	The Intersect
+	True Crime
+36 4-Rel docs
+	Morning Mix
+	National
+	Local
+	Morning Mix
+	Morning Mix
+	Morning Mix
+	Education
+	National
+	Morning Mix
+	Morning Mix
+	Morning Mix
+	National
+	Morning Mix
+	Post Nation
+	The Intersect
+	TypeNotKnown
+	Local
+	Technology
+	Morning Mix
+	Education
+	Morning Mix
+	Maryland Politics
+	Morning Mix
+	Morning Mix
+	Maryland Politics
+	WorldViews
+	Politics
+	Education
+	Maryland Politics
+	She The People
+	Education
+	Maryland Politics
+	Morning Mix
+	Education
+	Local
+	The Intersect
+26 2-Rel docs
+	The Intersect
+	Entertainment
+	Technology
+	PostEverything
+	Local
+	The Intersect
+	The Intersect
+	The Intersect
+	Politics
+	The Switch
+	On Parenting
+	Local
+	Europe
+	The Intersect
+	Maryland Politics
+	GovBeat
+	The Intersect
+	Wonkblog
+	The Switch
+	Maryland Politics
+	Education
+	Maryland Politics
+	The Intersect
+	The Intersect
+	On Parenting
+	Answer Sheet
+Topic No: 813 	 Type: Wonkblog 
+0 16-Rel docs
+1 8-Rel docs
+	Wonkblog
+1 4-Rel docs
+	Health & Science
+11 2-Rel docs
+	National Security
+	Right Turn
+	GovBeat
+	PostEverything
+	Wonkblog
+	Wonkblog
+	Health & Science
+	Wonkblog
+	In Theory
+	Travel
+	Wonkblog
+Topic No: 814 	 Type: Asia & Pacific 
+0 16-Rel docs
+2 8-Rel docs
+	TypeNotKnown
+	WorldViews
+11 4-Rel docs
+	Asia & Pacific
+	Wonkblog
+	Asia & Pacific
+	WorldViews
+	WorldViews
+	Asia & Pacific
+	Monkey Cage
+	WorldViews
+	Wonkblog
+	WorldViews
+	Asia & Pacific
+16 2-Rel docs
+	Asia & Pacific
+	Opinions
+	National
+	TypeNotKnown
+	Books
+	TypeNotKnown
+	World
+	The Fix
+	Asia & Pacific
+	WorldViews
+	Asia & Pacific
+	Wonkblog
+	TypeNotKnown
+	TypeNotKnown
+	Wonkblog
+	National Security
+Topic No: 815 	 Type: National Security 
+0 16-Rel docs
+0 8-Rel docs
+10 4-Rel docs
+	WashPost PR Blog
+	Middle East
+	National
+	WorldViews
+	National Security
+	Politics
+	WorldViews
+	World
+	National Security
+	WorldViews
+125 2-Rel docs
+	National Security
+	KidsPost
+	WashPost PR Blog
+	National Security
+	World
+	Middle East
+	National Security
+	World
+	National Security
+	National Security
+	World
+	National Security
+	National Security
+	World
+	Comic Riffs
+	Middle East
+	KidsPost
+	National Security
+	TypeNotKnown
+	National Security
+	Comic Riffs
+	National Security
+	World
+	PostEverything
+	World
+	World
+	World
+	National Security
+	World
+	National Security
+	National Security
+	PowerPost
+	WashPost PR Blog
+	Middle East
+	Middle East
+	Right Turn
+	Post Politics
+	Middle East
+	World
+	Comic Riffs
+	WashPost PR Blog
+	World
+	Post Politics
+	National Security
+	Comic Riffs
+	WashPost PR Blog
+	Middle East
+	National Security
+	World
+	Erik Wemple
+	Comic Riffs
+	Middle East
+	WashPost PR Blog
+	National Security
+	Politics
+	WashPost PR Blog
+	National Security
+	WorldViews
+	Middle East
+	WashPost PR Blog
+	National Security
+	PowerPost
+	Politics
+	TypeNotKnown
+	KidsPost
+	PowerPost
+	WashPost PR Blog
+	WashPost PR Blog
+	Comic Riffs
+	National Security
+	National Security
+	PowerPost
+	National Security
+	National Security
+	World
+	Middle East
+	National Security
+	National Security
+	National Security
+	Middle East
+	National Security
+	National Security
+	National Security
+	Europe
+	Middle East
+	World
+	National Security
+	Middle East
+	National Security
+	PostEverything
+	Post Politics
+	Comic Riffs
+	Comic Riffs
+	Middle East
+	Middle East
+	WorldViews
+	Post Nation
+	WashPost PR Blog
+	National Security
+	World
+	Politics
+	Post Politics
+	TypeNotKnown
+	World
+	Middle East
+	World
+	Right Turn
+	Comic Riffs
+	Comic Riffs
+	National Security
+	Europe
+	Middle East
+	National Security
+	World
+	Post Politics
+	WorldViews
+	National Security
+	Comic Riffs
+	Middle East
+	World
+	WorldViews
+	Act Four
+	Style
+	WashPost PR Blog
+	National Security
+Topic No: 816 	 Type: Wonkblog 
+4 16-Rel docs
+	GovBeat
+	GovBeat
+	GovBeat
+	GovBeat
+10 8-Rel docs
+	Maryland Politics
+	GovBeat
+	Wonkblog
+	The Fix
+	On Small Business
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	PostEverything
+	Wonkblog
+91 4-Rel docs
+	Wonkblog
+	Get There
+	Wonkblog
+	Wonkblog
+	Maryland Politics
+	The Plum Line
+	GovBeat
+	Business
+	Maryland Politics
+	Maryland Politics
+	Post Politics
+	GovBeat
+	Politics
+	Wonkblog
+	GovBeat
+	GovBeat
+	Business
+	Maryland Politics
+	D.C. Politics
+	Maryland Politics
+	D.C. Politics
+	On Small Business
+	Wonkblog
+	Local
+	The Plum Line
+	Local
+	Storyline
+	Politics
+	Wonkblog
+	On Leadership
+	GovBeat
+	Local
+	D.C. Politics
+	National
+	Virginia Politics
+	PostEverything
+	Politics
+	GovBeat
+	Fact Checker
+	GovBeat
+	Wonkblog
+	Wonkblog
+	Post Politics
+	PostEverything
+	GovBeat
+	GovBeat
+	Opinions
+	Local
+	GovBeat
+	Wonkblog
+	Wonkblog
+	Maryland Politics
+	PostEverything
+	Wonkblog
+	Local
+	Wonkblog
+	The Fix
+	Wonkblog
+	Wonkblog
+	Fact Checker
+	GovBeat
+	Wonkblog
+	Wonkblog
+	Local
+	Federal Insider
+	The Plum Line
+	Business
+	PostEverything
+	D.C. Politics
+	Maryland Politics
+	Wonkblog
+	GovBeat
+	GovBeat
+	Business
+	She The People
+	PostEverything
+	D.C. Politics
+	Business
+	PostEverything
+	District of DeBonis
+	PostEverything
+	The Fix
+	Maryland Politics
+	Wonkblog
+	GovBeat
+	Maryland Politics
+	Maryland
+	Fact Checker
+	Get There
+	Wonkblog
+	GovBeat
+203 2-Rel docs
+	Wonkblog
+	Politics
+	The Plum Line
+	PostPartisan
+	Opinions
+	Post Politics
+	Wonkblog
+	Politics
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	The Plum Line
+	Wonkblog
+	The Fix
+	Wonkblog
+	The Plum Line
+	She The People
+	Politics
+	Wonkblog
+	Post Politics
+	Fact Checker
+	Politics
+	Wonkblog
+	The Plum Line
+	Politics
+	The Fix
+	D.C. Politics
+	National
+	Politics
+	Get There
+	Going Out Guide
+	The Fix
+	Monkey Cage
+	The Fix
+	Post Politics
+	The Plum Line
+	Politics
+	Politics
+	The Plum Line
+	The Plum Line
+	Post Politics
+	The Fix
+	Wonkblog
+	Wonkblog
+	Right Turn
+	The Plum Line
+	Wonkblog
+	Post Politics
+	The Plum Line
+	Politics
+	PostEverything
+	The Plum Line
+	Test
+	On Small Business
+	Politics
+	Business
+	Wonkblog
+	Wonkblog
+	The Plum Line
+	Wonkblog
+	Innovations
+	Post Politics
+	Post Politics
+	The Fix
+	Post Politics
+	The Plum Line
+	Post Politics
+	Wonkblog
+	The Fix
+	GovBeat
+	Wonkblog
+	Post Politics
+	The Plum Line
+	GovBeat
+	Wonkblog
+	Politics
+	PostEverything
+	The Fix
+	Maryland Politics
+	Post Politics
+	Capital Business
+	The Plum Line
+	The Plum Line
+	The Plum Line
+	Wonkblog
+	Politics
+	PostEverything
+	The Plum Line
+	The Plum Line
+	She The People
+	Post Politics
+	The Plum Line
+	The Fix
+	The Plum Line
+	Wonkblog
+	Federal Insider
+	The Plum Line
+	Wonkblog
+	D.C. Politics
+	The Fix
+	Politics
+	Fact Checker
+	The Plum Line
+	Post Politics
+	Wonkblog
+	Post Politics
+	Right Turn
+	Wonkblog
+	Post Politics
+	The Plum Line
+	Politics
+	Wonkblog
+	Politics
+	Post Politics
+	The Plum Line
+	Wonkblog
+	Business
+	The Volokh Conspiracy
+	Wonkblog
+	Maryland Politics
+	Post Politics
+	Post Politics
+	Wonkblog
+	GovBeat
+	The Plum Line
+	Wonkblog
+	The Fed Page
+	The Plum Line
+	The Plum Line
+	She The People
+	On Small Business
+	Wonkblog
+	The Plum Line
+	The Plum Line
+	The Volokh Conspiracy
+	Politics
+	On Leadership
+	Maryland Politics
+	Wonkblog
+	The Plum Line
+	District of DeBonis
+	Maryland Politics
+	Post Politics
+	The Plum Line
+	Local
+	PostEverything
+	Post Politics
+	Wonkblog
+	Politics
+	Politics
+	Business
+	The Fix
+	The Plum Line
+	GovBeat
+	On Small Business
+	The Plum Line
+	Post Politics
+	PostPartisan
+	The Plum Line
+	Wonkblog
+	Post Politics
+	Maryland Politics
+	Wonkblog
+	Politics
+	On Small Business
+	The Fix
+	The Plum Line
+	D.C. Politics
+	PostEverything
+	Wonkblog
+	The Plum Line
+	Answer Sheet
+	Politics
+	Post Politics
+	Politics
+	Wonkblog
+	D.C. Politics
+	Wonkblog
+	Post Politics
+	The Plum Line
+	The Plum Line
+	The Fix
+	Fact Checker
+	Maryland Politics
+	GovBeat
+	D.C. Politics
+	The Plum Line
+	Politics
+	The Plum Line
+	The Plum Line
+	Opinions
+	Capital Business
+	Business
+	The Fix
+	Politics
+	Federal Insider
+	Wonkblog
+	The Fix
+	Politics
+	Maryland Politics
+	Local
+	Politics
+Topic No: 817 	 Type: Post Nation 
+0 16-Rel docs
+0 8-Rel docs
+0 4-Rel docs
+1 2-Rel docs
+	World
+Topic No: 818 	 Type: To Your Health 
+0 16-Rel docs
+5 8-Rel docs
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Health & Science
+	Morning Mix
+27 4-Rel docs
+	Health & Science
+	Health & Science
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wellness
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	To Your Health
+	Wonkblog
+	Health & Science
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+22 2-Rel docs
+	Wonkblog
+	America Answers
+	Wonkblog
+	Wellness
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Food
+	Business
+	America Answers
+	Wonkblog
+	To Your Health
+	Business
+	Wellness
+	PostEverything
+	Wellness
+	Wonkblog
+	Wellness
+	Health & Science
+	To Your Health
+Topic No: 819 	 Type: Wonkblog 
+0 16-Rel docs
+1 8-Rel docs
+	Real Estate
+2 4-Rel docs
+	Opinions
+	Health & Science
+9 2-Rel docs
+	Transportation
+	Real Estate
+	Real Estate
+	Capital Business
+	Get There
+	Real Estate
+	Real Estate
+	Real Estate
+	Real Estate
+Topic No: 820 	 Type: Morning Mix 
+1 16-Rel docs
+	To Your Health
+0 8-Rel docs
+7 4-Rel docs
+	Health & Science
+	Wonkblog
+	To Your Health
+	Health & Science
+	Health & Science
+	Health & Science
+	Health & Science
+24 2-Rel docs
+	Health & Science
+	Health & Science
+	Health & Science
+	Wonkblog
+	To Your Health
+	Health & Science
+	Wonkblog
+	Speaking of Science
+	Morning Mix
+	Health & Science
+	TypeNotKnown
+	TypeNotKnown
+	TypeNotKnown
+	Health & Science
+	Wonkblog
+	PostEverything
+	To Your Health
+	Health & Science
+	Health & Science
+	To Your Health
+	Early Lead
+	Health & Science
+	To Your Health
+	Local
+Topic No: 821 	 Type: The Switch 
+4 16-Rel docs
+	Federal Insider
+	The Switch
+	Morning Mix
+	Business
+5 8-Rel docs
+	The Switch
+	Technology
+	The Switch
+	Capital Business
+	Grade Point
+27 4-Rel docs
+	Real Estate
+	The Switch
+	Investigations
+	Capital Business
+	Technology
+	On Small Business
+	Travel
+	Travel
+	WorldViews
+	Business
+	Federal Insider
+	Travel
+	The Switch
+	Wonkblog
+	Morning Mix
+	Morning Mix
+	Style
+	The Switch
+	Business
+	Gridlock
+	On Small Business
+	Morning Mix
+	Get There
+	Get There
+	The Switch
+	The Switch
+	PostEverything
+24 2-Rel docs
+	Get There
+	Monkey Cage
+	Real Estate
+	Business
+	Dr. Gridlock
+	Get There
+	Federal Insider
+	Business
+	Technology
+	Technology
+	Get There
+	Ask The Post
+	Home & Garden
+	Get There
+	Politics
+	The Switch
+	Business
+	Travel
+	Technology
+	Washington Post Live
+	Get There
+	The Switch
+	The Switch
+	Technology
+Topic No: 822 	 Type: Erik Wemple 
+6 16-Rel docs
+	The Switch
+	Business
+	Business
+	Business
+	On Leadership
+	Morning Mix
+3 8-Rel docs
+	The Switch
+	The Switch
+	The Volokh Conspiracy
+12 4-Rel docs
+	Morning Mix
+	The Switch
+	The Switch
+	World
+	National Security
+	Business
+	Business
+	WorldViews
+	The Switch
+	Business
+	WorldViews
+	Morning Mix
+13 2-Rel docs
+	The Volokh Conspiracy
+	Monkey Cage
+	The Switch
+	Morning Mix
+	Erik Wemple
+	The Intersect
+	The Volokh Conspiracy
+	WorldViews
+	Erik Wemple
+	Morning Mix
+	The Switch
+	Arts and Entertainment
+	The Switch
+Topic No: 823 	 Type: To Your Health 
+2 16-Rel docs
+	Wonkblog
+	Wonkblog
+3 8-Rel docs
+	Business
+	Federal Insider
+	Opinions
+14 4-Rel docs
+	To Your Health
+	TypeNotKnown
+	Wonkblog
+	Health & Science
+	TypeNotKnown
+	To Your Health
+	Business
+	TypeNotKnown
+	Health & Science
+	Opinions
+	Business
+	Business
+	Health & Science
+	TypeNotKnown
+49 2-Rel docs
+	To Your Health
+	Health & Science
+	PostEverything
+	Health & Science
+	Wonkblog
+	To Your Health
+	To Your Health
+	Speaking of Science
+	Health & Science
+	To Your Health
+	Morning Mix
+	Speaking of Science
+	Health & Science
+	Health & Science
+	Opinions
+	PowerPost
+	To Your Health
+	Health & Science
+	Speaking of Science
+	To Your Health
+	TypeNotKnown
+	To Your Health
+	To Your Health
+	Morning Mix
+	To Your Health
+	To Your Health
+	To Your Health
+	TypeNotKnown
+	Health & Science
+	To Your Health
+	To Your Health
+	TypeNotKnown
+	To Your Health
+	To Your Health
+	Speaking of Science
+	To Your Health
+	To Your Health
+	Health & Science
+	Opinions
+	Health & Science
+	To Your Health
+	TypeNotKnown
+	To Your Health
+	Federal Insider
+	Food
+	Early Lead
+	To Your Health
+	To Your Health
+	Early Lead
+Topic No: 824 	 Type: Style 
+0 16-Rel docs
+0 8-Rel docs
+2 4-Rel docs
+	Wonkblog
+	Capital Business
+32 2-Rel docs
+	Wonkblog
+	Business
+	National
+	Politics
+	Local
+	Business
+	National
+	Erik Wemple
+	Business
+	Business
+	The Fix
+	On Leadership
+	Technology
+	Business
+	Wonkblog
+	Erik Wemple
+	Local
+	Magazine
+	Right Turn
+	The Fix
+	National
+	Post Local
+	The Switch
+	Technology
+	Business
+	National
+	Innovations
+	National
+	National
+	Politics
+	National
+	Wonkblog
+Topic No: 825 	 Type: Business 
+0 16-Rel docs
+1 8-Rel docs
+	Business
+9 4-Rel docs
+	Wonkblog
+	Politics
+	Wonkblog
+	Business
+	Energy and Environment
+	Politics
+	Energy and Environment
+	Politics
+	Business
+10 2-Rel docs
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Wonkblog
+	Business
+	Politics
+	Wonkblog
+	Business
+	Energy and Environment
